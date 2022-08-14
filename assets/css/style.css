@@ -223,7 +223,7 @@ html,body{
 .main-menu  .nav  li.active a,
 .main-menu  .nav  li a:hover,
 .main-menu .nav  li a:focus{
-    color: #00d8ff;
+    color: #f6c400;
     background-color:transparent;
 }
 .main-menu .nav a:before{
@@ -271,13 +271,13 @@ html,body{
 
 /*book-btn*/
 .book-btn {
-	background: #f6c302;
+	background: #f4c401;
     border: 1px solid #f6c302;
     width: 120px;
     height: 40px;
     white-space: nowrap;
     text-align: center;
-    color: #1a6761;
+    color: #291370;
     font-size:14px;
     font-family: 'Poppins', sans-serif;
     text-transform: capitalize;
@@ -289,8 +289,8 @@ html,body{
     transition: 0.5s ease-in-out;
 }
 .book-btn:hover{
-    color: #fff;
-    background: #20913d;
+    color: #f4c401;
+    background: #291370;
     border: 1px solid #20913d;
 }/*book-btn*/
 
