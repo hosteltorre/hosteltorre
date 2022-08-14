@@ -270,13 +270,13 @@ html,body{
 
 /*book-btn*/
 .book-btn {
-	background: #00d8ff;
-    border: 1px solid #00d8ff;
+	background: #f6c302;
+    border: 1px solid #f6c302;
     width: 120px;
     height: 40px;
     white-space: nowrap;
     text-align: center;
-    color: #fff;
+    color: #1a6761;
     font-size:14px;
     font-family: 'Poppins', sans-serif;
     text-transform: capitalize;
@@ -289,8 +289,8 @@ html,body{
 }
 .book-btn:hover{
     color: #fff;
-    background: #00d8d5;
-    border: 1px solid #00d8d5;
+    background: #20913d;
+    border: 1px solid #20913d;
 }/*book-btn*/
 
 /*-------------------------------------
