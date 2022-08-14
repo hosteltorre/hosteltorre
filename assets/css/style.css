@@ -395,7 +395,7 @@ html,body{
 
 .desc-tabs .nav-tabs>li.active>a{
 	color: #fff;
-    background: #00d8ff;
+    background: #20913d;
     cursor: default;
     font-size: 20px;
     font-weight: 500;
@@ -413,8 +413,8 @@ html,body{
     text-decoration: none;
 }
 .desc-tabs .nav-tabs>li>a{
-	color: #fff;
-    background: #00d8ff;
+	color: #1a6761;
+    background: #f7c204;
     cursor: default;
     font-size: 20px;
     font-weight: 500;
