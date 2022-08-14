@@ -145,6 +145,7 @@ html,body{
 .header-area{
     position:relative;
     width: 100%;
+    background: #1a6761;
 }
 
 /*.sticky-wrapper */
