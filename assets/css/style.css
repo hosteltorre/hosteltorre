@@ -346,7 +346,7 @@ html,body{
 	display: flex;
     justify-content: center;
     align-items: center;
-    background: #00d8ff;
+    background: #f4c500;
     border: 1px solid #00d8ff;
     width: 200px;
     height: 60px;
@@ -364,8 +364,8 @@ html,body{
     transition: 0.5s ease-in-out;
 }
 .about-btn:hover .about-view{
-    color: #fff;
-    background: #00d8d5;
+    color: #f4c500;
+    background: #27166a;
     box-shadow: 0 5px 20px rgba(14,15,18,.7);
 	border: 1px solid #00d8d5;
 }
@@ -1536,9 +1536,9 @@ html,body{
     font-size: 30px;
     cursor: pointer;
     z-index:15;
-    color: #fff;
-    background:#00d8ff;
-	border:1px solid #00d8ff;
+    color: #f4c500;
+    background:#1a6761;
+	border:1px solid #1a6761;
 	border-radius:5px;
 	-webkit-transition: .5s; 
 	-moz-transition:.5s; 
@@ -1550,8 +1550,8 @@ html,body{
 }
 
 #scroll-Top  .return-to-top:hover {
-    background:#2cdbb5;
-    color: #fff;
+    background:#1a6761;
+    color: #f4c500;
 	border-radius:50%;
 
 }
