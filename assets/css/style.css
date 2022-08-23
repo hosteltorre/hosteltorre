@@ -1439,6 +1439,7 @@ html,body{
 /*single-footer-txt*/
 .single-footer-txt p{
     margin-bottom:8px;
+    color:#ffffff;
 }
 .single-footer-txt p a{
     color:#fffff;
