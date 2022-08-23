@@ -1440,7 +1440,7 @@ html,body{
     margin-bottom:8px;
 }
 .single-footer-txt p a{
-    color:#565a5c;
+    color:#fffff;
     font-size:16px;
     -webkit-transition: .5s ease-in-out; 
     -moz-transition:.5s ease-in-out; 
@@ -1455,7 +1455,7 @@ html,body{
     -ms-transition:scaleX(1.2);
     -o-transition:scaleX(1.2);
     transform:scaleX(1.2);
-    color: #00d8ff;
+    color: #f4c401;
 }/*single-footer-txt*/
 
 .footer-copyright hr{
@@ -1537,8 +1537,8 @@ html,body{
     font-size: 30px;
     cursor: pointer;
     z-index:15;
-    color: #f4c500;
-    background:#1a6761;
+    color: #375da6;
+    background:#f4c401;
 	border:1px solid #1a6761;
 	border-radius:5px;
 	-webkit-transition: .5s; 
@@ -1551,8 +1551,8 @@ html,body{
 }
 
 #scroll-Top  .return-to-top:hover {
-    background:#1a6761;
-    color: #f4c500;
+    background:#ffffff;
+    color: #375da6;
 	border-radius:50%;
 
 }
