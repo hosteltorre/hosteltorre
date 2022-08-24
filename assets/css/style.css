@@ -1391,7 +1391,7 @@ html,body{
         13.  Footer-copyright
 --------------------------------------*/
 .footer-copyright{
-    background:#375da6;
+    background: #375da6;
     padding: 0 0 60px;
 }
 .footer-content{
@@ -1405,7 +1405,7 @@ html,body{
     color: #ffffff;
 }
 .single-footer-item h2{
-    color:#ffffff;
+    color: #ffffff;
     font-size:16px;
     font-weight: 600;
     margin-bottom:40px;
@@ -1439,13 +1439,13 @@ html,body{
 /*single-footer-txt*/
 .single-footer-txt p{
     margin-bottom:8px;
-    color:#ffffff;
+    color: #ffffff;
 }
 .single-footer-txt text-left {
-    color:#ffffff;
+    color: #ffffff;
 }
 . single-footer-txt {
-    color:#ffffff;
+    color: #ffffff;
 }
 .single-footer-txt p a{
     color:#fffff;
@@ -1528,6 +1528,15 @@ html,body{
     font-size:16px;
     margin-top:28px;
 }/*foot-icons*/
+.foot-text{
+    margin-bottom:8px;
+    color: #ffffff;
+}
+.foot-email{
+    margin-bottom:8px;
+    color: #f4c401;
+}
+
 
 /*===============================
          Scroll Top
@@ -1559,7 +1568,7 @@ html,body{
 }
 
 #scroll-Top  .return-to-top:hover {
-    background:#ffffff;
+    background: #ffffff;
     color: #375da6;
 	border-radius:50%;
 
