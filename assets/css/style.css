@@ -1451,13 +1451,13 @@ html,body{
     margin-bottom:8px;
     color: #ffffff;
 }
-.single-footer-txt text-left {
+#single-footer-txt text-left {
     color: #ffffff;
 }
 . single-footer-txt {
     color: #ffffff;
 }
-.single-footer-txt p{
+#single-footer-txt p{
     color: #ffffff;
 }
 .single-footer-txt p a{
@@ -1467,8 +1467,7 @@ html,body{
     -moz-transition:.5s ease-in-out; 
     -ms-transition:.5s ease-in-out; 
     -o-transition:.5s ease-in-out;
-    transition: .5s ease-in-out;
-    
+    transition: .5s ease-in-out;    
 }
 .single-footer-txt p a:hover{
     -webkit-transition:scaleX(1.2);
