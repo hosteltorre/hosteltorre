@@ -382,6 +382,11 @@ html,body{
  color: #fff;
  font-size: 36px;
 }
+.about-txt {
+  color: #365ca5;
+  text-transform: capitalize;
+  font-size: 30px;
+}
 /*about-us-content*/
 
 /*-------------------------------------
@@ -690,7 +695,11 @@ html,body{
     font-family: 'Poppins', sans-serif;
     margin-top: 17px;
 }
-
+.servicio-txt {
+  color: #365ca5;
+  text-transform: capitalize;
+  font-size: 22px;
+}
 /*-------------------------------------
         6. Gallery
 --------------------------------------*/
