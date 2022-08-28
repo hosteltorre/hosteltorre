@@ -1457,6 +1457,9 @@ html,body{
 . single-footer-txt {
     color: #ffffff;
 }
+.single-footer-txt p{
+    color: #ffffff;
+}
 .single-footer-txt p a{
     color:#fffff;
     font-size:16px;
