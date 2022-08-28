@@ -383,8 +383,8 @@ html,body{
  font-size: 36px;
 }
 .about-txt {
-  color: #365ca5;
-  text-transform: capitalize;
+  color: #565a5c;
+  text-transform: none;
   font-size: 30px;
 }
 /*about-us-content*/
