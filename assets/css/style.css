@@ -731,6 +731,9 @@ html,body{
   text-transform: capitalize;
   font-size: 22px;
 }
+.statistics-img {
+  margin-top: 100px;
+}
 /*-------------------------------------
         6. Gallery
 --------------------------------------*/
