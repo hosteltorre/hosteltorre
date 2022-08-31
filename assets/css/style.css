@@ -1378,6 +1378,15 @@ html,body{
     z-index: 1;
 }
 
+
+.subscribe2 {
+    position: relative;
+    padding: 120px 0;
+    background: url(../../assets/images/home/subscribe-banner2.jpg)no-repeat center fixed;
+    background-size: cover;
+    z-index: 1;
+}
+
 /*subscribe-title*/
 .subscribe .subscribe-title {
     margin-bottom: 45px;
