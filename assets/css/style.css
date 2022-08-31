@@ -272,7 +272,7 @@ html,body{
 /*book-btn*/
 .book-btn {
 	background: #f4c401;
-    border: 1px solid #f6c302;
+    border: 1px solid #f4c401;
     width: 120px;
     height: 40px;
     white-space: nowrap;
@@ -291,7 +291,7 @@ html,body{
 .book-btn:hover{
     color: #f4c401;
     background: #291370;
-    border: 1px solid #20913d;
+    border: 1px solid #291370;
 }/*book-btn*/
 .btn-link:focus, .btn-link:hover {
   color: #f4c500;
