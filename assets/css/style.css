@@ -346,12 +346,12 @@ html,body{
 	display: flex;
     justify-content: center;
     align-items: center;
-    background: #f4c500;
+    background: #27166a;
     border: 1px solid #00d8ff;
     width: 200px;
     height: 60px;
     white-space: nowrap;
-    color: #27166a;
+    color: #f4c500;
     font-size:16px;
     font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
@@ -367,12 +367,12 @@ html,body{
 	display: ;
     justify-content: center;
     align-items: center;
-    background: #f4c500;
+    background: #27166a;
     border: 1px solid #00d8ff;
     width: 250px;
     height: 60px;
     white-space: nowrap;
-    color: #27166a;
+    color: #f4c500;
     font-size:16px;
     font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
@@ -385,14 +385,14 @@ html,body{
     transition: 0.5s ease-in-out;
 }
 .about-btn:hover .about-view{
-    color: #f4c500;
-    background: #27166a;
+    color: #27166a;
+    background: #f4c500;
     box-shadow: 0 5px 20px rgba(14,15,18,.7);
 	border: 1px solid #00d8d5;
 }
 .about-btn:hover .about-view1{
-    color: #f4c500;
-    background: #27166a;
+    color: #27166a;
+    background: #f4c500;
     box-shadow: 0 5px 20px rgba(14,15,18,.7);
 	border: 1px solid #00d8d5;
 }
