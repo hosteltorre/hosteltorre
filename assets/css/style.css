@@ -290,13 +290,13 @@ html,body{
 }
 .book-btn:hover{
     color: #f4c401;
-    background: #291370;
+    background: #27166a;
     border: 1px solid #291370;
 }/*book-btn*/
 .btn-link:focus, .btn-link:hover {
-  color: #f4c500;
+  color: #27166a;
   text-decoration: none;
-  background-color: transparent;
+  background-color: #f4c401;
 }
 
 /*-------------------------------------
