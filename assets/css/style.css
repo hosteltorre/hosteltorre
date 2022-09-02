@@ -294,9 +294,9 @@ html,body{
     border: 1px solid #291370;
 }/*book-btn*/
 .btn-link:focus, .btn-link:hover {
-  color: #27166a;
+  color: #f4c401;
   text-decoration: none;
-  background-color: #f4c401;
+  background-color:#27166a;
 }
 
 /*-------------------------------------
