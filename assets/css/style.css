@@ -380,7 +380,7 @@ html,body{
     transition: 0.5s ease-in-out;
 }
 .about-view1 {
-	display: flex;
+    display: flex;
     justify-content: center;
     align-items: center;
     background: #f4c500;
