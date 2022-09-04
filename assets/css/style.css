@@ -243,7 +243,7 @@ html,body{
 }
 .main-menu .nav li.active  a:before,
 .main-menu .nav a:hover:before{
-    background: #00d8ff;
+    background: none;
     width: 100%;
 }
 
